@@ -1,8 +1,0 @@
-<Modules>
-  <Module PersistentId="C0317EF4-2B0B-4A6E-ACED-CE735F842BB8" ModuleId="NHibernate3Sample.Autofac" />
-  <Module PersistentId="A8D95E19-08A3-4886-8FFF-D15C7FCD2B8C" ModuleId="NHibernate3Sample.Mapping" />
-  <Module PersistentId="9506013E-C77C-4DA7-AD83-32A96B543156" ModuleId="NHibernate3Sample.Entity" />
-  <Module PersistentId="36316F84-75C9-46AD-9DC6-02592526CDD3" ModuleId="NHibernate3Sample.MappingTest" />
-  <Module PersistentId="d:Miscellaneous Files" ModuleId="FluentNHibernate" />
-  <Module PersistentId="Autofac, Version=2.3.1.530, Culture=neutral, PublicKeyToken=17863af14b0044da" ModuleId="Autofac" />
-</Modules>
